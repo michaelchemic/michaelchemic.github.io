@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-zhihu_username:     https://www.zhihu.com/people/tony-blair-94
+zhihu_username:     tony-blair-94
 github_username:    michaelchemic
 twitter_username:   Michael_azures
 facebook_username:    Michael Chemic
